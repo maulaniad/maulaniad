@@ -1,6 +1,6 @@
 <h3 align="center">Backend Developer from Indonesia</h3>
 
-- 🌱 Learning **Frontend, SPAs and other programming best practices.**
+- 🌱 Aim for **programming best practices.**
 
 - 📫 Private email **maulani.ad@gmail.com**
 
